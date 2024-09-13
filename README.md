@@ -1,7 +1,7 @@
 # 💻 Fullstack Web Developer
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=happymorning505&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=jameswilliam&color=blue)
 
 ## 🌟 Objective:
 As a passionate and dedicated fullstack web developer, my objective is to create innovative, user-friendly, and scalable web applications. I am skilled in both frontend and backend technologies, with a strong focus on delivering high-quality code and exceptional user experiences.
@@ -111,4 +111,4 @@ As a passionate and dedicated fullstack web developer, my objective is to create
 ---
 
 ## 📧 Contact:
-You can reach me at [cupid.jack505@gmail.com](mailto:cupid.jack505@gmail.com)
+You can reach me at [jameswilliamsonjr3rd@gmail.com](mailto:jameswilliamsonjr3rd@gmail.com)
