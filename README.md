@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm James William 👋
 
-<!--
-**james2000william/james2000william** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack Web Developer with experience in building high-quality web applications. I specialize in both frontend and backend technologies. Below are my skills:
 
-Here are some ideas to get you started:
+## 🚀 My Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" colspan="2"><strong>Frontend</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<table>
+  <tr>
+    <td align="center" colspan="2"><strong>Backend</strong></td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Node.js</li>
+        <li>Express</li>
+      </ul>
+    </td>
+  </tr>
+</table>
